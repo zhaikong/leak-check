@@ -16,3 +16,5 @@ wheels/
 .idea/
 /db/leak-check.db
 attach.sh
+config.bat
+node_modules
